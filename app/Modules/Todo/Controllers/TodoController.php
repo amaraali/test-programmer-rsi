@@ -99,7 +99,6 @@ class TodoController extends Controller
             'tanggal' => ['Tanggal', html()->text("tanggal", $todo->tanggal)->class("form-control datepicker")->required()],
             'jam' => ['Jam', html()->text("jam", $todo->jam)->class("form-control")->placeholder("")->required()],
             'status' => ['Status', html()->select("status", $status_ref, $todo->status)->class("form-select select2")->placeholder("")->required()],
-
         );
 
         $text = 'membuka form edit ' . $this->title; //.' '.$todo->what;

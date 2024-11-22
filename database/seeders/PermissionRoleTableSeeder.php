@@ -945,8 +945,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             84 => 
             array (
-                'permission_id' => '9cbb29dd-4d11-4df6-aee8-b7573be32acd',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb29dd-511f-40c3-9c03-7ad77334ad03',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -956,7 +956,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             85 => 
             array (
-                'permission_id' => '9cbb29dd-511f-40c3-9c03-7ad77334ad03',
+                'permission_id' => '9cbb29dd-51f0-4272-bdca-bc4936b1754b',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -967,7 +967,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             86 => 
             array (
-                'permission_id' => '9cbb29dd-511f-40c3-9c03-7ad77334ad03',
+                'permission_id' => '9cbb29dd-51f0-4272-bdca-bc4936b1754b',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -978,7 +978,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             87 => 
             array (
-                'permission_id' => '9cbb29dd-51f0-4272-bdca-bc4936b1754b',
+                'permission_id' => '9cbb29dd-52e2-42b1-a50a-73b2a56906d3',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -989,7 +989,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             88 => 
             array (
-                'permission_id' => '9cbb29dd-51f0-4272-bdca-bc4936b1754b',
+                'permission_id' => '9cbb29dd-52e2-42b1-a50a-73b2a56906d3',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1000,7 +1000,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             89 => 
             array (
-                'permission_id' => '9cbb29dd-51f0-4272-bdca-bc4936b1754b',
+                'permission_id' => '9cbb29dd-52e2-42b1-a50a-73b2a56906d3',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1011,7 +1011,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             90 => 
             array (
-                'permission_id' => '9cbb29dd-52e2-42b1-a50a-73b2a56906d3',
+                'permission_id' => '9cbb29dd-54a5-4255-bd70-22b9acb97d96',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1022,8 +1022,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             91 => 
             array (
-                'permission_id' => '9cbb29dd-52e2-42b1-a50a-73b2a56906d3',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb29dd-5584-4b64-bebc-9e21223bbcc3',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1033,8 +1033,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             92 => 
             array (
-                'permission_id' => '9cbb29dd-52e2-42b1-a50a-73b2a56906d3',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb29dd-5584-4b64-bebc-9e21223bbcc3',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1044,7 +1044,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             93 => 
             array (
-                'permission_id' => '9cbb29dd-54a5-4255-bd70-22b9acb97d96',
+                'permission_id' => '9cbb29dd-568c-4e98-a7c5-b58e772eac5c',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1055,8 +1055,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             94 => 
             array (
-                'permission_id' => '9cbb29dd-54a5-4255-bd70-22b9acb97d96',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb29ea-8466-409f-81f0-9f0d1f3daaaa',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1066,8 +1066,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             95 => 
             array (
-                'permission_id' => '9cbb29dd-5584-4b64-bebc-9e21223bbcc3',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb29ea-8466-409f-81f0-9f0d1f3daaaa',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1077,8 +1077,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             96 => 
             array (
-                'permission_id' => '9cbb29dd-5584-4b64-bebc-9e21223bbcc3',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb29ea-8466-409f-81f0-9f0d1f3daaaa',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1088,8 +1088,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             97 => 
             array (
-                'permission_id' => '9cbb29dd-5584-4b64-bebc-9e21223bbcc3',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb29ea-897d-4731-9fb0-22cecd5be532',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1099,8 +1099,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             98 => 
             array (
-                'permission_id' => '9cbb29dd-568c-4e98-a7c5-b58e772eac5c',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb29ea-897d-4731-9fb0-22cecd5be532',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1110,8 +1110,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             99 => 
             array (
-                'permission_id' => '9cbb29dd-568c-4e98-a7c5-b58e772eac5c',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb29ea-8a6b-4540-b49d-797243aff366',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1121,8 +1121,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             100 => 
             array (
-                'permission_id' => '9cbb29ea-8466-409f-81f0-9f0d1f3daaaa',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb29ea-8a6b-4540-b49d-797243aff366',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1132,8 +1132,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             101 => 
             array (
-                'permission_id' => '9cbb29ea-8466-409f-81f0-9f0d1f3daaaa',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb29ea-8b87-41ee-80b4-616dcf3f51ad',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1143,8 +1143,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             102 => 
             array (
-                'permission_id' => '9cbb29ea-8466-409f-81f0-9f0d1f3daaaa',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb29ea-8b87-41ee-80b4-616dcf3f51ad',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1154,72 +1154,6 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             103 => 
             array (
-                'permission_id' => '9cbb29ea-897d-4731-9fb0-22cecd5be532',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            104 => 
-            array (
-                'permission_id' => '9cbb29ea-897d-4731-9fb0-22cecd5be532',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            105 => 
-            array (
-                'permission_id' => '9cbb29ea-8a6b-4540-b49d-797243aff366',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            106 => 
-            array (
-                'permission_id' => '9cbb29ea-8a6b-4540-b49d-797243aff366',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            107 => 
-            array (
-                'permission_id' => '9cbb29ea-8b87-41ee-80b4-616dcf3f51ad',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            108 => 
-            array (
-                'permission_id' => '9cbb29ea-8b87-41ee-80b4-616dcf3f51ad',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            109 => 
-            array (
                 'permission_id' => '9cbb29ea-8b87-41ee-80b4-616dcf3f51ad',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
@@ -1229,9 +1163,75 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            110 => 
+            104 => 
             array (
                 'permission_id' => '9cbb29ea-8cae-41d7-8f80-ab3f025921c8',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            105 => 
+            array (
+                'permission_id' => '9cbb29ea-8cae-41d7-8f80-ab3f025921c8',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            106 => 
+            array (
+                'permission_id' => '9cbb29ea-8d89-43dd-ac24-77160a3f957b',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            107 => 
+            array (
+                'permission_id' => '9cbb29ea-8d89-43dd-ac24-77160a3f957b',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            108 => 
+            array (
+                'permission_id' => '9cbb29ea-8e55-4778-a8fe-5fe491115034',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            109 => 
+            array (
+                'permission_id' => '9cbb29ea-8e55-4778-a8fe-5fe491115034',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            110 => 
+            array (
+                'permission_id' => '9cbb2a01-ded7-46bc-9466-0d53a881a263',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1242,7 +1242,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             111 => 
             array (
-                'permission_id' => '9cbb29ea-8cae-41d7-8f80-ab3f025921c8',
+                'permission_id' => '9cbb2a01-ded7-46bc-9466-0d53a881a263',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1253,7 +1253,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             112 => 
             array (
-                'permission_id' => '9cbb29ea-8d89-43dd-ac24-77160a3f957b',
+                'permission_id' => '9cbb2a01-e2e2-4c4c-abae-e5579fb116e4',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1264,7 +1264,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             113 => 
             array (
-                'permission_id' => '9cbb29ea-8d89-43dd-ac24-77160a3f957b',
+                'permission_id' => '9cbb2a01-e2e2-4c4c-abae-e5579fb116e4',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1275,7 +1275,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             114 => 
             array (
-                'permission_id' => '9cbb29ea-8e55-4778-a8fe-5fe491115034',
+                'permission_id' => '9cbb2a01-e477-433f-9e90-1882830bf308',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1286,7 +1286,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             115 => 
             array (
-                'permission_id' => '9cbb29ea-8e55-4778-a8fe-5fe491115034',
+                'permission_id' => '9cbb2a01-e477-433f-9e90-1882830bf308',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1297,7 +1297,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             116 => 
             array (
-                'permission_id' => '9cbb2a01-ded7-46bc-9466-0d53a881a263',
+                'permission_id' => '9cbb2a01-e57e-43df-b6da-926e8f7f664a',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1308,7 +1308,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             117 => 
             array (
-                'permission_id' => '9cbb2a01-ded7-46bc-9466-0d53a881a263',
+                'permission_id' => '9cbb2a01-e57e-43df-b6da-926e8f7f664a',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1319,7 +1319,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             118 => 
             array (
-                'permission_id' => '9cbb2a01-e2e2-4c4c-abae-e5579fb116e4',
+                'permission_id' => '9cbb2a01-e6cc-4c0b-ab48-cef86aa33f18',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1330,7 +1330,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             119 => 
             array (
-                'permission_id' => '9cbb2a01-e2e2-4c4c-abae-e5579fb116e4',
+                'permission_id' => '9cbb2a01-e6cc-4c0b-ab48-cef86aa33f18',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1341,7 +1341,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             120 => 
             array (
-                'permission_id' => '9cbb2a01-e477-433f-9e90-1882830bf308',
+                'permission_id' => '9cbb2a01-e7fa-4a62-b3e3-a4cfb05b7c1a',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1352,7 +1352,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             121 => 
             array (
-                'permission_id' => '9cbb2a01-e477-433f-9e90-1882830bf308',
+                'permission_id' => '9cbb2a01-e7fa-4a62-b3e3-a4cfb05b7c1a',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1363,7 +1363,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             122 => 
             array (
-                'permission_id' => '9cbb2a01-e57e-43df-b6da-926e8f7f664a',
+                'permission_id' => '9cbb2a01-e8e9-4ba1-83e3-f4335f6002be',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1374,7 +1374,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             123 => 
             array (
-                'permission_id' => '9cbb2a01-e57e-43df-b6da-926e8f7f664a',
+                'permission_id' => '9cbb2a01-e8e9-4ba1-83e3-f4335f6002be',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1385,7 +1385,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             124 => 
             array (
-                'permission_id' => '9cbb2a01-e6cc-4c0b-ab48-cef86aa33f18',
+                'permission_id' => '9cbb2a0c-1d96-4849-855a-96a0e969b239',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1396,7 +1396,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             125 => 
             array (
-                'permission_id' => '9cbb2a01-e6cc-4c0b-ab48-cef86aa33f18',
+                'permission_id' => '9cbb2a0c-1d96-4849-855a-96a0e969b239',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1407,7 +1407,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             126 => 
             array (
-                'permission_id' => '9cbb2a01-e7fa-4a62-b3e3-a4cfb05b7c1a',
+                'permission_id' => '9cbb2a0c-2367-403a-b59a-043d9e28962a',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1418,7 +1418,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             127 => 
             array (
-                'permission_id' => '9cbb2a01-e7fa-4a62-b3e3-a4cfb05b7c1a',
+                'permission_id' => '9cbb2a0c-2367-403a-b59a-043d9e28962a',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1429,8 +1429,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             128 => 
             array (
-                'permission_id' => '9cbb2a01-e8e9-4ba1-83e3-f4335f6002be',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb2a0c-2367-403a-b59a-043d9e28962a',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1440,8 +1440,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             129 => 
             array (
-                'permission_id' => '9cbb2a01-e8e9-4ba1-83e3-f4335f6002be',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb2a0c-244d-44c3-8a70-2c18e44e9193',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1451,8 +1451,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             130 => 
             array (
-                'permission_id' => '9cbb2a0c-1d96-4849-855a-96a0e969b239',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb2a0c-244d-44c3-8a70-2c18e44e9193',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1462,8 +1462,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             131 => 
             array (
-                'permission_id' => '9cbb2a0c-1d96-4849-855a-96a0e969b239',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb2a0c-244d-44c3-8a70-2c18e44e9193',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1473,7 +1473,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             132 => 
             array (
-                'permission_id' => '9cbb2a0c-2367-403a-b59a-043d9e28962a',
+                'permission_id' => '9cbb2a0c-2559-4bd2-8923-8007f25f7f22',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1484,7 +1484,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             133 => 
             array (
-                'permission_id' => '9cbb2a0c-2367-403a-b59a-043d9e28962a',
+                'permission_id' => '9cbb2a0c-2559-4bd2-8923-8007f25f7f22',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1495,7 +1495,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             134 => 
             array (
-                'permission_id' => '9cbb2a0c-2367-403a-b59a-043d9e28962a',
+                'permission_id' => '9cbb2a0c-2559-4bd2-8923-8007f25f7f22',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1506,7 +1506,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             135 => 
             array (
-                'permission_id' => '9cbb2a0c-244d-44c3-8a70-2c18e44e9193',
+                'permission_id' => '9cbb2a0c-26d6-4ab8-a378-dfc44371de2a',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1517,7 +1517,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             136 => 
             array (
-                'permission_id' => '9cbb2a0c-244d-44c3-8a70-2c18e44e9193',
+                'permission_id' => '9cbb2a0c-26d6-4ab8-a378-dfc44371de2a',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1528,7 +1528,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             137 => 
             array (
-                'permission_id' => '9cbb2a0c-244d-44c3-8a70-2c18e44e9193',
+                'permission_id' => '9cbb2a0c-26d6-4ab8-a378-dfc44371de2a',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1539,7 +1539,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             138 => 
             array (
-                'permission_id' => '9cbb2a0c-2559-4bd2-8923-8007f25f7f22',
+                'permission_id' => '9cbb2a0c-2841-4bbc-8c4d-ca37e701dc49',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1550,7 +1550,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             139 => 
             array (
-                'permission_id' => '9cbb2a0c-2559-4bd2-8923-8007f25f7f22',
+                'permission_id' => '9cbb2a0c-2841-4bbc-8c4d-ca37e701dc49',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1561,7 +1561,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             140 => 
             array (
-                'permission_id' => '9cbb2a0c-2559-4bd2-8923-8007f25f7f22',
+                'permission_id' => '9cbb2a0c-2841-4bbc-8c4d-ca37e701dc49',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1572,7 +1572,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             141 => 
             array (
-                'permission_id' => '9cbb2a0c-26d6-4ab8-a378-dfc44371de2a',
+                'permission_id' => '9cbb2a0c-292b-44f2-89c0-6344fb156e0e',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1583,7 +1583,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             142 => 
             array (
-                'permission_id' => '9cbb2a0c-26d6-4ab8-a378-dfc44371de2a',
+                'permission_id' => '9cbb2a0c-292b-44f2-89c0-6344fb156e0e',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1594,8 +1594,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             143 => 
             array (
-                'permission_id' => '9cbb2a0c-26d6-4ab8-a378-dfc44371de2a',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb2a23-0b8a-45e6-af06-3d8eb486a649',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1605,8 +1605,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             144 => 
             array (
-                'permission_id' => '9cbb2a0c-2841-4bbc-8c4d-ca37e701dc49',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb2a23-0b8a-45e6-af06-3d8eb486a649',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1616,8 +1616,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             145 => 
             array (
-                'permission_id' => '9cbb2a0c-2841-4bbc-8c4d-ca37e701dc49',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb2a23-0fa7-47dd-a30b-59de116400de',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1627,7 +1627,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             146 => 
             array (
-                'permission_id' => '9cbb2a0c-2841-4bbc-8c4d-ca37e701dc49',
+                'permission_id' => '9cbb2a23-0fa7-47dd-a30b-59de116400de',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1638,7 +1638,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             147 => 
             array (
-                'permission_id' => '9cbb2a0c-292b-44f2-89c0-6344fb156e0e',
+                'permission_id' => '9cbb2a23-10f1-4521-b1fe-46171d6e962a',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1649,7 +1649,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             148 => 
             array (
-                'permission_id' => '9cbb2a0c-292b-44f2-89c0-6344fb156e0e',
+                'permission_id' => '9cbb2a23-10f1-4521-b1fe-46171d6e962a',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1660,8 +1660,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             149 => 
             array (
-                'permission_id' => '9cbb2a23-0b8a-45e6-af06-3d8eb486a649',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb2a23-10f1-4521-b1fe-46171d6e962a',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1671,8 +1671,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             150 => 
             array (
-                'permission_id' => '9cbb2a23-0b8a-45e6-af06-3d8eb486a649',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb2a23-11e7-439b-b176-7b2f5ed638bc',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1682,8 +1682,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             151 => 
             array (
-                'permission_id' => '9cbb2a23-0fa7-47dd-a30b-59de116400de',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb2a23-11e7-439b-b176-7b2f5ed638bc',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1693,8 +1693,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             152 => 
             array (
-                'permission_id' => '9cbb2a23-0fa7-47dd-a30b-59de116400de',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb2a23-1308-42cc-b3b9-958540a3d6f1',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1704,7 +1704,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             153 => 
             array (
-                'permission_id' => '9cbb2a23-0fa7-47dd-a30b-59de116400de',
+                'permission_id' => '9cbb2a23-1308-42cc-b3b9-958540a3d6f1',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1715,7 +1715,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             154 => 
             array (
-                'permission_id' => '9cbb2a23-10f1-4521-b1fe-46171d6e962a',
+                'permission_id' => '9cbb2a23-1444-448b-b833-8dd17f1f93c7',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1726,7 +1726,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             155 => 
             array (
-                'permission_id' => '9cbb2a23-10f1-4521-b1fe-46171d6e962a',
+                'permission_id' => '9cbb2a23-1444-448b-b833-8dd17f1f93c7',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1737,7 +1737,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             156 => 
             array (
-                'permission_id' => '9cbb2a23-10f1-4521-b1fe-46171d6e962a',
+                'permission_id' => '9cbb2a23-1444-448b-b833-8dd17f1f93c7',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1748,7 +1748,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             157 => 
             array (
-                'permission_id' => '9cbb2a23-11e7-439b-b176-7b2f5ed638bc',
+                'permission_id' => '9cbb2a23-1567-484b-bd42-45e53890ff1e',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1759,7 +1759,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             158 => 
             array (
-                'permission_id' => '9cbb2a23-11e7-439b-b176-7b2f5ed638bc',
+                'permission_id' => '9cbb2a23-1567-484b-bd42-45e53890ff1e',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1770,8 +1770,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             159 => 
             array (
-                'permission_id' => '9cbb2a23-11e7-439b-b176-7b2f5ed638bc',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb2a38-c4ee-47a1-9b00-3ab15f407559',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1781,8 +1781,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             160 => 
             array (
-                'permission_id' => '9cbb2a23-1308-42cc-b3b9-958540a3d6f1',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb2a38-c4ee-47a1-9b00-3ab15f407559',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1792,8 +1792,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             161 => 
             array (
-                'permission_id' => '9cbb2a23-1308-42cc-b3b9-958540a3d6f1',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb2a38-c4ee-47a1-9b00-3ab15f407559',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1803,8 +1803,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             162 => 
             array (
-                'permission_id' => '9cbb2a23-1308-42cc-b3b9-958540a3d6f1',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb2a38-c93c-4e0b-8073-5384b24797bb',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1814,8 +1814,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             163 => 
             array (
-                'permission_id' => '9cbb2a23-1444-448b-b833-8dd17f1f93c7',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb2a38-c93c-4e0b-8073-5384b24797bb',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1825,8 +1825,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             164 => 
             array (
-                'permission_id' => '9cbb2a23-1444-448b-b833-8dd17f1f93c7',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb2a38-ca24-4d76-8fb9-67e3468911d6',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1836,8 +1836,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             165 => 
             array (
-                'permission_id' => '9cbb2a23-1444-448b-b833-8dd17f1f93c7',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb2a38-ca24-4d76-8fb9-67e3468911d6',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1847,7 +1847,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             166 => 
             array (
-                'permission_id' => '9cbb2a23-1567-484b-bd42-45e53890ff1e',
+                'permission_id' => '9cbb2a38-cb30-4bed-ada8-48a0781d8692',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1858,7 +1858,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             167 => 
             array (
-                'permission_id' => '9cbb2a23-1567-484b-bd42-45e53890ff1e',
+                'permission_id' => '9cbb2a38-cb30-4bed-ada8-48a0781d8692',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1869,8 +1869,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             168 => 
             array (
-                'permission_id' => '9cbb2a38-c4ee-47a1-9b00-3ab15f407559',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb2a38-cb30-4bed-ada8-48a0781d8692',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1880,8 +1880,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             169 => 
             array (
-                'permission_id' => '9cbb2a38-c4ee-47a1-9b00-3ab15f407559',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb2a38-cc78-44ee-881d-5bfb1a7cdfb5',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1891,8 +1891,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             170 => 
             array (
-                'permission_id' => '9cbb2a38-c4ee-47a1-9b00-3ab15f407559',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb2a38-cc78-44ee-881d-5bfb1a7cdfb5',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -1902,7 +1902,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             171 => 
             array (
-                'permission_id' => '9cbb2a38-c93c-4e0b-8073-5384b24797bb',
+                'permission_id' => '9cbb2a38-cd47-44fe-8945-9dbe3eaefb06',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1913,7 +1913,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             172 => 
             array (
-                'permission_id' => '9cbb2a38-c93c-4e0b-8073-5384b24797bb',
+                'permission_id' => '9cbb2a38-cd47-44fe-8945-9dbe3eaefb06',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1924,7 +1924,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             173 => 
             array (
-                'permission_id' => '9cbb2a38-ca24-4d76-8fb9-67e3468911d6',
+                'permission_id' => '9cbb2a38-ce2e-4ac8-9bc3-3ec748cb94a4',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1935,7 +1935,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             174 => 
             array (
-                'permission_id' => '9cbb2a38-ca24-4d76-8fb9-67e3468911d6',
+                'permission_id' => '9cbb2a38-ce2e-4ac8-9bc3-3ec748cb94a4',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1946,7 +1946,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             175 => 
             array (
-                'permission_id' => '9cbb2a38-cb30-4bed-ada8-48a0781d8692',
+                'permission_id' => '9cbb596a-fca4-40ee-878e-0a97d71c47c5',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1957,7 +1957,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             176 => 
             array (
-                'permission_id' => '9cbb2a38-cb30-4bed-ada8-48a0781d8692',
+                'permission_id' => '9cbb596a-fca4-40ee-878e-0a97d71c47c5',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1968,7 +1968,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             177 => 
             array (
-                'permission_id' => '9cbb2a38-cb30-4bed-ada8-48a0781d8692',
+                'permission_id' => '9cbb596a-fca4-40ee-878e-0a97d71c47c5',
                 'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1979,7 +1979,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             178 => 
             array (
-                'permission_id' => '9cbb2a38-cc78-44ee-881d-5bfb1a7cdfb5',
+                'permission_id' => '9cbb596b-0f4e-4528-999d-61c4a887948e',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -1990,7 +1990,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             179 => 
             array (
-                'permission_id' => '9cbb2a38-cc78-44ee-881d-5bfb1a7cdfb5',
+                'permission_id' => '9cbb596b-0f4e-4528-999d-61c4a887948e',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2001,7 +2001,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             180 => 
             array (
-                'permission_id' => '9cbb2a38-cd47-44fe-8945-9dbe3eaefb06',
+                'permission_id' => '9cbb596b-10db-47c7-ac44-aea3c453cbd1',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2012,7 +2012,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             181 => 
             array (
-                'permission_id' => '9cbb2a38-cd47-44fe-8945-9dbe3eaefb06',
+                'permission_id' => '9cbb596b-10db-47c7-ac44-aea3c453cbd1',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2023,7 +2023,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             182 => 
             array (
-                'permission_id' => '9cbb2a38-ce2e-4ac8-9bc3-3ec748cb94a4',
+                'permission_id' => '9cbb596b-11da-41fc-8249-b05720bbbd6a',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2034,7 +2034,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             183 => 
             array (
-                'permission_id' => '9cbb2a38-ce2e-4ac8-9bc3-3ec748cb94a4',
+                'permission_id' => '9cbb596b-11da-41fc-8249-b05720bbbd6a',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2045,8 +2045,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             184 => 
             array (
-                'permission_id' => '9cbb596a-fca4-40ee-878e-0a97d71c47c5',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cbb596b-11da-41fc-8249-b05720bbbd6a',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2056,8 +2056,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             185 => 
             array (
-                'permission_id' => '9cbb596a-fca4-40ee-878e-0a97d71c47c5',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cbb596b-130d-4b65-8976-b718a94ea8b0',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2067,8 +2067,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             186 => 
             array (
-                'permission_id' => '9cbb596a-fca4-40ee-878e-0a97d71c47c5',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'permission_id' => '9cbb596b-130d-4b65-8976-b718a94ea8b0',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2078,7 +2078,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             187 => 
             array (
-                'permission_id' => '9cbb596b-0f4e-4528-999d-61c4a887948e',
+                'permission_id' => '9cbb596b-13f7-4230-b713-522743936520',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2089,7 +2089,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             188 => 
             array (
-                'permission_id' => '9cbb596b-0f4e-4528-999d-61c4a887948e',
+                'permission_id' => '9cbb596b-13f7-4230-b713-522743936520',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2100,7 +2100,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             189 => 
             array (
-                'permission_id' => '9cbb596b-10db-47c7-ac44-aea3c453cbd1',
+                'permission_id' => '9cbb596b-14d7-4f96-b6ca-c0e95cbea878',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2111,7 +2111,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             190 => 
             array (
-                'permission_id' => '9cbb596b-10db-47c7-ac44-aea3c453cbd1',
+                'permission_id' => '9cbb596b-14d7-4f96-b6ca-c0e95cbea878',
                 'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2122,7 +2122,7 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             191 => 
             array (
-                'permission_id' => '9cbb596b-11da-41fc-8249-b05720bbbd6a',
+                'permission_id' => '9cc1a0af-4e77-4728-8be4-3eb878261b75',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
@@ -2133,105 +2133,6 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             192 => 
             array (
-                'permission_id' => '9cbb596b-11da-41fc-8249-b05720bbbd6a',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            193 => 
-            array (
-                'permission_id' => '9cbb596b-11da-41fc-8249-b05720bbbd6a',
-                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            194 => 
-            array (
-                'permission_id' => '9cbb596b-130d-4b65-8976-b718a94ea8b0',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            195 => 
-            array (
-                'permission_id' => '9cbb596b-130d-4b65-8976-b718a94ea8b0',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            196 => 
-            array (
-                'permission_id' => '9cbb596b-13f7-4230-b713-522743936520',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            197 => 
-            array (
-                'permission_id' => '9cbb596b-13f7-4230-b713-522743936520',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            198 => 
-            array (
-                'permission_id' => '9cbb596b-14d7-4f96-b6ca-c0e95cbea878',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            199 => 
-            array (
-                'permission_id' => '9cbb596b-14d7-4f96-b6ca-c0e95cbea878',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            200 => 
-            array (
-                'permission_id' => '9cc1a0af-4e77-4728-8be4-3eb878261b75',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            201 => 
-            array (
                 'permission_id' => '9cc1a0af-59e7-4706-8299-a52433aab7d4',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
@@ -2241,7 +2142,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            202 => 
+            193 => 
             array (
                 'permission_id' => '9cc1a0af-5b13-4f7a-bbb0-7a96c339c93a',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2252,7 +2153,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            203 => 
+            194 => 
             array (
                 'permission_id' => '9cc1a0af-5c31-4140-9d93-296836a0fc6c',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2263,7 +2164,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            204 => 
+            195 => 
             array (
                 'permission_id' => '9cc1a0af-5d45-4221-b4fc-41d3bc17b523',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2274,7 +2175,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            205 => 
+            196 => 
             array (
                 'permission_id' => '9cc1a0af-5e41-4648-bfb4-90dbb1b767b7',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2285,7 +2186,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            206 => 
+            197 => 
             array (
                 'permission_id' => '9cc1a0af-5f63-42a3-9328-da0d4ddbdedc',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2296,7 +2197,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            207 => 
+            198 => 
             array (
                 'permission_id' => '9cc1a0b7-f625-4bb7-b426-5b71ec977f0b',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2307,7 +2208,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            208 => 
+            199 => 
             array (
                 'permission_id' => '9cc1a0b8-07ed-4b08-a246-f645136ac985',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2318,7 +2219,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            209 => 
+            200 => 
             array (
                 'permission_id' => '9cc1a0b8-0e4e-4bc3-a890-70ad41a9bb51',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2329,7 +2230,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            210 => 
+            201 => 
             array (
                 'permission_id' => '9cc1a0b8-0f69-40e8-b3f0-f883300aca22',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2340,7 +2241,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            211 => 
+            202 => 
             array (
                 'permission_id' => '9cc1a0b8-1067-45c5-8846-33c14ce28492',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2351,7 +2252,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            212 => 
+            203 => 
             array (
                 'permission_id' => '9cc1a0b8-116e-4044-b22a-dacc28d34e20',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2362,7 +2263,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            213 => 
+            204 => 
             array (
                 'permission_id' => '9cc1a0b8-12ad-4d16-b520-caf000a65302',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2373,10 +2274,109 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            214 => 
+            205 => 
             array (
                 'permission_id' => '9cc744eb-c726-491c-a13b-4bee76547d04',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            206 => 
+            array (
+                'permission_id' => '9cc744eb-c726-491c-a13b-4bee76547d04',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            207 => 
+            array (
+                'permission_id' => '9cc744eb-c726-491c-a13b-4bee76547d04',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            208 => 
+            array (
+                'permission_id' => '9cc744eb-d913-4866-8c02-cfff5cd80233',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            209 => 
+            array (
+                'permission_id' => '9cc744eb-d913-4866-8c02-cfff5cd80233',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            210 => 
+            array (
+                'permission_id' => '9cc744eb-da54-4b59-8842-f7ac119c37f1',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            211 => 
+            array (
+                'permission_id' => '9cc744eb-da54-4b59-8842-f7ac119c37f1',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            212 => 
+            array (
+                'permission_id' => '9cc744eb-db67-4e27-b5ff-571d2dcfec38',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            213 => 
+            array (
+                'permission_id' => '9cc744eb-db67-4e27-b5ff-571d2dcfec38',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            214 => 
+            array (
+                'permission_id' => '9cc744eb-db67-4e27-b5ff-571d2dcfec38',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2386,8 +2386,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             215 => 
             array (
-                'permission_id' => '9cc744eb-c726-491c-a13b-4bee76547d04',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cc744eb-dc7b-47c7-9e80-711a9338fee7',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2397,8 +2397,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             216 => 
             array (
-                'permission_id' => '9cc744eb-d913-4866-8c02-cfff5cd80233',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cc744eb-dc7b-47c7-9e80-711a9338fee7',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2408,8 +2408,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             217 => 
             array (
-                'permission_id' => '9cc744eb-d913-4866-8c02-cfff5cd80233',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cc744eb-dd9b-4ac6-ae9a-559ffc51fee0',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2419,8 +2419,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             218 => 
             array (
-                'permission_id' => '9cc744eb-da54-4b59-8842-f7ac119c37f1',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cc744eb-dd9b-4ac6-ae9a-559ffc51fee0',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2430,8 +2430,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             219 => 
             array (
-                'permission_id' => '9cc744eb-da54-4b59-8842-f7ac119c37f1',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'permission_id' => '9cc744eb-debc-4d05-a5ce-224689639c83',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2441,8 +2441,8 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             220 => 
             array (
-                'permission_id' => '9cc744eb-db67-4e27-b5ff-571d2dcfec38',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'permission_id' => '9cc744eb-debc-4d05-a5ce-224689639c83',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,
@@ -2451,83 +2451,6 @@ class PermissionRoleTableSeeder extends Seeder
                 'deleted_by' => NULL,
             ),
             221 => 
-            array (
-                'permission_id' => '9cc744eb-db67-4e27-b5ff-571d2dcfec38',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            222 => 
-            array (
-                'permission_id' => '9cc744eb-dc7b-47c7-9e80-711a9338fee7',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            223 => 
-            array (
-                'permission_id' => '9cc744eb-dc7b-47c7-9e80-711a9338fee7',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            224 => 
-            array (
-                'permission_id' => '9cc744eb-dd9b-4ac6-ae9a-559ffc51fee0',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            225 => 
-            array (
-                'permission_id' => '9cc744eb-dd9b-4ac6-ae9a-559ffc51fee0',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            226 => 
-            array (
-                'permission_id' => '9cc744eb-debc-4d05-a5ce-224689639c83',
-                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            227 => 
-            array (
-                'permission_id' => '9cc744eb-debc-4d05-a5ce-224689639c83',
-                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
-                'created_at' => NULL,
-                'updated_at' => NULL,
-                'deleted_at' => NULL,
-                'created_by' => NULL,
-                'updated_by' => NULL,
-                'deleted_by' => NULL,
-            ),
-            228 => 
             array (
                 'permission_id' => '9cc744fa-ca99-41c0-b8eb-270f215dde77',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2538,7 +2461,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            229 => 
+            222 => 
             array (
                 'permission_id' => '9cc744fa-dfbc-4ddb-9645-25530798e4b9',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2549,7 +2472,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            230 => 
+            223 => 
             array (
                 'permission_id' => '9cc744fa-e0fd-4615-9a6d-1dc602d3fc0c',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2560,7 +2483,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            231 => 
+            224 => 
             array (
                 'permission_id' => '9cc744fa-e207-4f66-9a35-736fba50190d',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2571,7 +2494,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            232 => 
+            225 => 
             array (
                 'permission_id' => '9cc744fa-e3a1-47de-a809-b8fd0ff7bb33',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2582,7 +2505,7 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            233 => 
+            226 => 
             array (
                 'permission_id' => '9cc744fa-e4e0-4f52-9ac0-5763adfceec7',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
@@ -2593,10 +2516,593 @@ class PermissionRoleTableSeeder extends Seeder
                 'updated_by' => NULL,
                 'deleted_by' => NULL,
             ),
-            234 => 
+            227 => 
             array (
                 'permission_id' => '9cc744fa-e5d1-4229-af00-3d4de4fc5875',
                 'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            228 => 
+            array (
+                'permission_id' => '9cc94ecf-2000-4083-904b-5475fe518363',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            229 => 
+            array (
+                'permission_id' => '9cc96826-208e-4f5a-a343-b5d3110d0a63',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            230 => 
+            array (
+                'permission_id' => '9cc96826-208e-4f5a-a343-b5d3110d0a63',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            231 => 
+            array (
+                'permission_id' => '9cc96826-2c7b-4e78-8836-75f9b5a0a300',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            232 => 
+            array (
+                'permission_id' => '9cc96826-2c7b-4e78-8836-75f9b5a0a300',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            233 => 
+            array (
+                'permission_id' => '9ce3cdfd-e2e9-4083-bd64-83ab9a8d558d',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            234 => 
+            array (
+                'permission_id' => '9ce3cdfd-e2e9-4083-bd64-83ab9a8d558d',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            235 => 
+            array (
+                'permission_id' => '9ce3cdfd-e2e9-4083-bd64-83ab9a8d558d',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            236 => 
+            array (
+                'permission_id' => '9ce3cdfd-ef8d-4b26-afad-4780f20b3b85',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            237 => 
+            array (
+                'permission_id' => '9ce3cdfd-ef8d-4b26-afad-4780f20b3b85',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            238 => 
+            array (
+                'permission_id' => '9ce3cdfd-f067-402c-b7af-447f00f1e74e',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            239 => 
+            array (
+                'permission_id' => '9ce3cdfd-f067-402c-b7af-447f00f1e74e',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            240 => 
+            array (
+                'permission_id' => '9ce3cdfd-f13e-4873-8e2b-8f79d9218204',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            241 => 
+            array (
+                'permission_id' => '9ce3cdfd-f13e-4873-8e2b-8f79d9218204',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            242 => 
+            array (
+                'permission_id' => '9ce3cdfd-f13e-4873-8e2b-8f79d9218204',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            243 => 
+            array (
+                'permission_id' => '9ce3cdfd-f219-44a2-b4b7-8c1eb6253596',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            244 => 
+            array (
+                'permission_id' => '9ce3cdfd-f219-44a2-b4b7-8c1eb6253596',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            245 => 
+            array (
+                'permission_id' => '9ce3cdfd-f2fc-4ea7-b1e1-d1ca4d4261c8',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            246 => 
+            array (
+                'permission_id' => '9ce3cdfd-f2fc-4ea7-b1e1-d1ca4d4261c8',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            247 => 
+            array (
+                'permission_id' => '9ce3cdfd-f438-4e55-bfa2-b9aa0730f29b',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            248 => 
+            array (
+                'permission_id' => '9ce3cdfd-f438-4e55-bfa2-b9aa0730f29b',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            249 => 
+            array (
+                'permission_id' => '9ce3ce05-4290-4005-a3b0-ef8a6b42906c',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            250 => 
+            array (
+                'permission_id' => '9ce3ce05-4290-4005-a3b0-ef8a6b42906c',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            251 => 
+            array (
+                'permission_id' => '9ce3ce05-4290-4005-a3b0-ef8a6b42906c',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            252 => 
+            array (
+                'permission_id' => '9ce3ce05-48a8-4ea4-9326-b6b13b2a6103',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            253 => 
+            array (
+                'permission_id' => '9ce3ce05-48a8-4ea4-9326-b6b13b2a6103',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            254 => 
+            array (
+                'permission_id' => '9ce3ce05-48a8-4ea4-9326-b6b13b2a6103',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            255 => 
+            array (
+                'permission_id' => '9ce3ce05-49a7-4d0a-9ef8-df92c7fb9823',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            256 => 
+            array (
+                'permission_id' => '9ce3ce05-49a7-4d0a-9ef8-df92c7fb9823',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            257 => 
+            array (
+                'permission_id' => '9ce3ce05-49a7-4d0a-9ef8-df92c7fb9823',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            258 => 
+            array (
+                'permission_id' => '9ce3ce05-4b7d-4760-a397-a5fb550f5ccd',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            259 => 
+            array (
+                'permission_id' => '9ce3ce05-4b7d-4760-a397-a5fb550f5ccd',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            260 => 
+            array (
+                'permission_id' => '9ce3ce05-4b7d-4760-a397-a5fb550f5ccd',
+                'role_id' => '9cc1a61f-a85a-450d-8c31-b6b74e7178bb',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            261 => 
+            array (
+                'permission_id' => '9ce3ce05-4ca1-462a-ba1e-299158b82351',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            262 => 
+            array (
+                'permission_id' => '9ce3ce05-4ca1-462a-ba1e-299158b82351',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            263 => 
+            array (
+                'permission_id' => '9ce3ce05-4e13-467c-80d5-fef362e9318f',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            264 => 
+            array (
+                'permission_id' => '9ce3ce05-4e13-467c-80d5-fef362e9318f',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            265 => 
+            array (
+                'permission_id' => '9ce3ce05-4f45-4d2d-9229-be1d15acd705',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            266 => 
+            array (
+                'permission_id' => '9ce3ce05-4f45-4d2d-9229-be1d15acd705',
+                'role_id' => '9cbb3015-f519-40cc-8ed4-f8de2ab5b63f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            267 => 
+            array (
+                'permission_id' => '9d8bcfe2-ca9f-48fa-97ee-91c646cb954e',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            268 => 
+            array (
+                'permission_id' => '9d8bcfe2-ca9f-48fa-97ee-91c646cb954e',
+                'role_id' => '9c13f5db-4b68-4268-b1a7-e79ad43d9f9f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            269 => 
+            array (
+                'permission_id' => '9d8bcfe2-eaa9-4fbc-a91c-19853005dc35',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            270 => 
+            array (
+                'permission_id' => '9d8bcfe2-eaa9-4fbc-a91c-19853005dc35',
+                'role_id' => '9c13f5db-4b68-4268-b1a7-e79ad43d9f9f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            271 => 
+            array (
+                'permission_id' => '9d8bcfe2-eb89-4cd0-ae6d-6c8d31e2e990',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            272 => 
+            array (
+                'permission_id' => '9d8bcfe2-eb89-4cd0-ae6d-6c8d31e2e990',
+                'role_id' => '9c13f5db-4b68-4268-b1a7-e79ad43d9f9f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            273 => 
+            array (
+                'permission_id' => '9d8bcfe2-ec59-4a2c-94dd-98194f710c7a',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            274 => 
+            array (
+                'permission_id' => '9d8bcfe2-ec59-4a2c-94dd-98194f710c7a',
+                'role_id' => '9c13f5db-4b68-4268-b1a7-e79ad43d9f9f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            275 => 
+            array (
+                'permission_id' => '9d8bcfe2-ed13-49c4-bd76-fc247a44e4d4',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            276 => 
+            array (
+                'permission_id' => '9d8bcfe2-ed13-49c4-bd76-fc247a44e4d4',
+                'role_id' => '9c13f5db-4b68-4268-b1a7-e79ad43d9f9f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            277 => 
+            array (
+                'permission_id' => '9d8bcfe2-edcb-4f19-916a-cffdb6026195',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            278 => 
+            array (
+                'permission_id' => '9d8bcfe2-edcb-4f19-916a-cffdb6026195',
+                'role_id' => '9c13f5db-4b68-4268-b1a7-e79ad43d9f9f',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            279 => 
+            array (
+                'permission_id' => '9d8bcfe2-ee7a-49ca-b880-e4314f45c0a5',
+                'role_id' => '9c13f5cb-d4e0-45f2-9edb-1b4e633bb256',
+                'created_at' => NULL,
+                'updated_at' => NULL,
+                'deleted_at' => NULL,
+                'created_by' => NULL,
+                'updated_by' => NULL,
+                'deleted_by' => NULL,
+            ),
+            280 => 
+            array (
+                'permission_id' => '9d8bcfe2-ee7a-49ca-b880-e4314f45c0a5',
+                'role_id' => '9c13f5db-4b68-4268-b1a7-e79ad43d9f9f',
                 'created_at' => NULL,
                 'updated_at' => NULL,
                 'deleted_at' => NULL,

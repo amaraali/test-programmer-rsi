@@ -14,11 +14,14 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         // User::factory(10)->create();
-        $this->call(KelasTableSeeder::class);
-        $this->call(MapelTableSeeder::class);
+        // $this->call(KelasTableSeeder::class);
+        // $this->call(MapelTableSeeder::class);
         $this->call(MenuTableSeeder::class);
         $this->call(ModuleTableSeeder::class);
         $this->call(PermissionTableSeeder::class);
         $this->call(PermissionRoleTableSeeder::class);
+        $this->call(UsersTableSeeder::class);
+        $this->call(RoleTableSeeder::class);
+        $this->call(RoleUserTableSeeder::class);
     }
 }

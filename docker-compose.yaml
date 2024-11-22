@@ -1,0 +1,21 @@
+version: "3.3"
+services:
+  web:
+    container_name: lms
+    working_dir: /var/www
+    image: infraunnes/php:8.3-apache
+    environment:
+      CREATE_LARAVEL_STORAGE: "1"
+      COMPOSERMIRROR: "https://mirrors.cloud.tencent.com/composer/"
+      NPMMIRROR: "https://registry.npmmirror.com"
+    ports:
+      - "${APP_PORT:-80}:80"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ".:/var/www/"
+      - "./private:/root/.ssh/"
+      - "./apache.conf:/etc/apache2/sites-available/000-default.conf"
+volumes:
+  my-datavolume:
+    external: true

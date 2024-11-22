@@ -35,13 +35,18 @@ class TodoController extends Controller
 
     public function create(Request $request)
     {
-        $status_ref = ['belum', 'sedang', 'selesai'];
+        $status_ref = [
+            'belum' => 'Belum',
+            'sedang' => 'Sedang',
+            'selesai' => 'Selesai',
+        ];
 
         $data['forms'] = array(
             'todo' => ['Todo', html()->text("todo", old("todo"))->class("form-control")->placeholder("")->required()],
             'tanggal' => ['Tanggal', html()->text("tanggal", old("tanggal"))->class("form-control datepicker")->required()],
-            'jam' => ['Jam', html()->text("jam", old("jam"))->class("form-control")->placeholder("")->required()],
-            'status' => ['Status', html()->select("status", $status_ref, old("status"))->class("form-select")->placeholder("")->required()],
+            'jam' => ['Jam', html()->time("jam", old("jam"))->class("form-control")->placeholder("")->required()],
+            'status' => ['Status', html()->select("status", $status_ref, old("status"))->class("form-select select2")->placeholder("")->required()],
+            // 'status' => ['Status', html()->select("status", $ref_status, old("status"))->class("form-select select2")], /
         );
 
         $this->log($request, 'membuka form tambah ' . $this->title);
@@ -82,13 +87,18 @@ class TodoController extends Controller
     public function edit(Request $request, Todo $todo)
     {
         $data['todo'] = $todo;
+        $status_ref = [
+            'belum' => 'Belum',
+            'sedang' => 'Sedang',
+            'selesai' => 'Selesai',
+        ];
 
 
         $data['forms'] = array(
             'todo' => ['Todo', html()->text("todo", $todo->todo)->class("form-control")->placeholder("")->required()],
             'tanggal' => ['Tanggal', html()->text("tanggal", $todo->tanggal)->class("form-control datepicker")->required()],
             'jam' => ['Jam', html()->text("jam", $todo->jam)->class("form-control")->placeholder("")->required()],
-            'status' => ['Status', html()->text("status", $todo->status)->class("form-control")->placeholder("")->required()],
+            'status' => ['Status', html()->select("status", $status_ref, $todo->status)->class("form-select select2")->placeholder("")->required()],
 
         );
 

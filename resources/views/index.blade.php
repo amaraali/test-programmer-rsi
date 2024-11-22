@@ -52,7 +52,7 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 col-6">
                         <div class="tp-header__logo">
                             <a href="index.html">
-                                <h1>estibaja</h1>
+                                <h1>TODO</h1>
                                 {{-- <img src="{{ asset('assets/img/logo/logo-black.png') }}" alt=""> --}}
                             </a>
                         </div>
@@ -61,21 +61,21 @@
                         <div class="tp-header__main-menu tp-header__black-menu">
                             <nav id="mobile-menu">
                                 <ul>
-                                    <li><a href="index.html">Beranda</a>
+                                    <li><a href="index.html">Home</a>
                                         <ul class="submenu">
                                             <li><a href="index.html">App Landing</a></li>
                                             <li><a href="index-2.html">Saas Landing</a></li>
                                             <li><a href="index-3.html">IT Solution</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Kelas</a>
+                                    <li><a href="#">Page</a>
                                         <ul class="submenu">
                                             <li><a href="about-me.html">About Me</a></li>
                                             <li><a href="about-us.html">About Us</a></li>
                                             <li><a href="blog.html">Blog Sidebar</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="price.html">Fitur</a></li>
+                                    <li><a href="price.html">Price</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -133,7 +133,49 @@
     <!-- tp-offcanvus-area-end -->
 
     <main>
-        cek
+
+        <div class="tp-header-bg">
+            <img src="{{ asset('assets/img/hero/hero-bg-2.png') }}" alt="">
+        </div>
+
+        <!-- tp-slider-area-start -->
+        <div class="tp-hero__area tp-hero__bg-2">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-9 col-12">
+                        <div class="tp-hero__wrapper text-center">
+                            <div class="tp-hero__content text-center">
+                                <h2 class="tp-hero__title-lg pb-40 theme-color wow tpfadeUp" data-wow-duration=".9s"
+                                    data-wow-delay=".3s"><span>TODO</span> - Todo List
+                                </h2>
+                            </div>
+                            <div class="tp-hero__contact pb-70 wow tpfadeUp" data-wow-duration=".9s"
+                                data-wow-delay=".7s">
+                                <p>Belum punya akun?
+                                    <b>
+                                        <a class="btn btn-outline-secondary rounded-pill mx-2"
+                                            href="{{ route('login') }}"> Login / Register
+                                        </a>
+                                    </b>
+                                </p>
+                            </div>
+                            <div class="tp-hero__thumb-2 p-relative">
+                                <img class="wow tpfadeUp rounded" border='1' data-wow-duration=".9s"
+                                    data-wow-delay=".9s" src="{{ asset('assets/img/hero/custom-hero2.png') }}"
+                                    alt="">
+                                <div class="tp-hero__img-1 d-none d-lg-block">
+                                    <img src="{{ asset('assets/img/hero/hero-img-3.png') }}" alt="">
+                                </div>
+                                {{-- <div class="tp-hero__img-2 d-none d-lg-block">
+                                    <img class="rounded" src="{{ asset('assets/img/hero/custom-hero1.png') }}"
+                                        alt="">
+                                </div> --}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </main>
 
@@ -171,7 +213,7 @@
                                 class="col-xl-9 col-lg-9 col-md-6 col-12 order-2 order-lg-1 text-center text-md-start">
                                 <div class="tp-footer-bottom__logo">
                                     <a href="index.html">
-                                        <h2 class="text-white">Learning Management System</h2>
+                                        <h2 class="text-white">Quitox</h2>
                                         {{-- <img src="{{ asset('assets/img/logo/logo.png') }}" alt=""> --}}
                                     </a>
                                 </div>
